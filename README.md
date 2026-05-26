@@ -1,4 +1,5 @@
-<img width="922" height="535" alt="image" src="https://github.com/user-attachments/assets/86ae5c3e-161a-4124-a0d5-f6b3b0393902" />
+<img width="955" height="550" alt="Screenshot 2026-05-26 193355" src="https://github.com/user-attachments/assets/902458fc-38f7-4933-a534-46e063899d42" />
+
 # PowerBi-Sales-Project
 
 1. Show all customer records
